@@ -5,16 +5,8 @@ tags: utility,intermediate
 
 Explain briefly what the snippet does.
 
-- Explain briefly how the snippet works.
-- Use bullet points for your snippet's explanation.
-- Try to explain everything briefly but clearly.
+- Swap any two things (number, string, character etc) without third variable
 
 ```py
-def function_name(args):
-  # code
-  return 0
-```
-
-```py
-function_name(val) # result
+a,b = b,a
 ```
